@@ -1,5 +1,5 @@
 # Call Spammer UA
-Call spammer, written on Pyhton3.
+Call spammer, written on Python3.
 
 Works only in Firefox!
 
